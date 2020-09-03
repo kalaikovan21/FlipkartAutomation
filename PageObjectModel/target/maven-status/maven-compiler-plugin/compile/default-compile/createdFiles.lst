@@ -1,0 +1,8 @@
+com\flipkart\qa\pages\LoginPage.class
+com\flipkart\qa\util\TestUtil.class
+com\flipkart\qa\pages\SignUpPage.class
+com\flipkart\qa\baseclass\TestBase.class
+com\flipkart\qa\pages\OfferZonePage.class
+com\flipkart\qa\extentreport\ExtentReporterNG.class
+com\flipkart\qa\util\WebEventListener.class
+com\flipkart\qa\pages\HomePage.class

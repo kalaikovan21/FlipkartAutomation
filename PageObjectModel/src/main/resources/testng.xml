@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Flipkart Automation">
+
+	<listeners>
+		<listener class-name="com.flipkart.qa.extentreport.ExtentReporterNG" />
+	</listeners>
+
+
+	<test name="Flipkart Testcases">
+		<classes>
+			<class name="com.flipkart.qa.testcases.LoginPageTest"/>
+	  <class name="com.flipkart.qa.testcases.HomePageTest"/>
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="2" ignored="0" total="6" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Flipkart Automation" duration-ms="77478" started-at="2020-09-03T13:04:01 IST" finished-at="2020-09-03T13:05:19 IST">
+    <groups>
+    </groups>
+    <test name="Flipkart Testcases" duration-ms="77478" started-at="2020-09-03T13:04:01 IST" finished-at="2020-09-03T13:05:19 IST">
+      <class name="com.flipkart.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.flipkart.qa.testcases.LoginPageTest@76f2b07d]" name="setUp" is-config="true" duration-ms="12932" started-at="2020-09-03T13:04:01 IST" finished-at="2020-09-03T13:04:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.flipkart.qa.testcases.LoginPageTest@76f2b07d]" name="loginPageTitleTest" duration-ms="30" started-at="2020-09-03T13:04:14 IST" finished-at="2020-09-03T13:04:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.flipkart.qa.testcases.LoginPageTest@76f2b07d]" name="tearDown" is-config="true" duration-ms="662" started-at="2020-09-03T13:04:14 IST" finished-at="2020-09-03T13:04:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.flipkart.qa.testcases.LoginPageTest@76f2b07d]" name="setUp" is-config="true" duration-ms="11963" started-at="2020-09-03T13:04:15 IST" finished-at="2020-09-03T13:04:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createAccountLinkTest()[pri:2, instance:com.flipkart.qa.testcases.LoginPageTest@76f2b07d]" name="createAccountLinkTest" duration-ms="373" started-at="2020-09-03T13:04:27 IST" finished-at="2020-09-03T13:04:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccountLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.flipkart.qa.testcases.LoginPageTest@76f2b07d]" name="tearDown" is-config="true" duration-ms="884" started-at="2020-09-03T13:04:27 IST" finished-at="2020-09-03T13:04:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.flipkart.qa.testcases.LoginPageTest@76f2b07d]" name="setUp" is-config="true" duration-ms="10741" started-at="2020-09-03T13:04:28 IST" finished-at="2020-09-03T13:04:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginToApplicationTest()[pri:3, instance:com.flipkart.qa.testcases.LoginPageTest@76f2b07d]" name="loginToApplicationTest" duration-ms="472" started-at="2020-09-03T13:04:39 IST" finished-at="2020-09-03T13:04:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplicationTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.flipkart.qa.testcases.LoginPageTest@76f2b07d]" name="tearDown" is-config="true" duration-ms="642" started-at="2020-09-03T13:04:39 IST" finished-at="2020-09-03T13:04:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.flipkart.qa.testcases.LoginPageTest -->
+      <class name="com.flipkart.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.flipkart.qa.testcases.HomePageTest@704a52ec]" name="setUp" is-config="true" duration-ms="13486" started-at="2020-09-03T13:04:40 IST" finished-at="2020-09-03T13:04:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="flipkartLogoTest()[pri:1, instance:com.flipkart.qa.testcases.HomePageTest@704a52ec]" name="flipkartLogoTest" duration-ms="64" started-at="2020-09-03T13:04:53 IST" finished-at="2020-09-03T13:04:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipkartLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.flipkart.qa.testcases.HomePageTest@704a52ec]" name="tearDown" is-config="true" duration-ms="655" started-at="2020-09-03T13:04:54 IST" finished-at="2020-09-03T13:04:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.flipkart.qa.testcases.HomePageTest@704a52ec]" name="setUp" is-config="true" duration-ms="10079" started-at="2020-09-03T13:04:54 IST" finished-at="2020-09-03T13:05:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="menShirtsLinkVisibilityTest()[pri:2, instance:com.flipkart.qa.testcases.HomePageTest@704a52ec]" name="menShirtsLinkVisibilityTest" duration-ms="3" started-at="2020-09-03T13:05:04 IST" finished-at="2020-09-03T13:05:04 IST">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.flipkart.qa.pages.HomePage.menShirtsLinkVisibility(HomePage.java:38)
+at com.flipkart.qa.testcases.HomePageTest.menShirtsLinkVisibilityTest(HomePageTest.java:39)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:764)
+at org.testng.TestRunner.run(TestRunner.java:585)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+at org.testng.TestNG.runSuites(TestNG.java:1069)
+at org.testng.TestNG.run(TestNG.java:1037)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menShirtsLinkVisibilityTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.flipkart.qa.testcases.HomePageTest@704a52ec]" name="tearDown" is-config="true" duration-ms="643" started-at="2020-09-03T13:05:04 IST" finished-at="2020-09-03T13:05:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.flipkart.qa.testcases.HomePageTest@704a52ec]" name="setUp" is-config="true" duration-ms="10346" started-at="2020-09-03T13:05:05 IST" finished-at="2020-09-03T13:05:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="offerZoneAvailabilityTest()[pri:3, instance:com.flipkart.qa.testcases.HomePageTest@704a52ec]" name="offerZoneAvailabilityTest" duration-ms="2769" started-at="2020-09-03T13:05:15 IST" finished-at="2020-09-03T13:05:18 IST">
+          <exception class="org.openqa.selenium.StaleElementReferenceException">
+            <message>
+              <![CDATA[stale element reference: element is not attached to the page document
+  (Session info: chrome=85.0.4183.83)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-KCTA0C3M', ip: '192.168.225.108', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.83, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\Users\kalai\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53647}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 266485fe109949e9bf9688abba4d447c]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=85.0.4183.83)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-KCTA0C3M', ip: '192.168.225.108', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.83, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\Users\kalai\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53647}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 266485fe109949e9bf9688abba4d447c
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+at com.sun.proxy.$Proxy12.click(Unknown Source)
+at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at com.sun.proxy.$Proxy11.click(Unknown Source)
+at com.flipkart.qa.pages.HomePage.offerZoneAvailability(HomePage.java:44)
+at com.flipkart.qa.testcases.HomePageTest.offerZoneAvailabilityTest(HomePageTest.java:44)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:764)
+at org.testng.TestRunner.run(TestRunner.java:585)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+at org.testng.TestNG.runSuites(TestNG.java:1069)
+at org.testng.TestNG.run(TestNG.java:1037)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.StaleElementReferenceException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- offerZoneAvailabilityTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.flipkart.qa.testcases.HomePageTest@704a52ec]" name="tearDown" is-config="true" duration-ms="642" started-at="2020-09-03T13:05:18 IST" finished-at="2020-09-03T13:05:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.flipkart.qa.testcases.HomePageTest -->
+    </test> <!-- Flipkart Testcases -->
+  </suite> <!-- Flipkart Automation -->
+</testng-results>

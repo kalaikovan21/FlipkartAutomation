@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="6" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="81897" started-at="2020-09-03T18:56:54 IST" finished-at="2020-09-03T18:58:16 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="81897" started-at="2020-09-03T18:56:54 IST" finished-at="2020-09-03T18:58:16 IST">
+      <class name="com.flipkart.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.flipkart.qa.testcases.LoginPageTest@64bfbc86]" name="setUp" is-config="true" duration-ms="14868" started-at="2020-09-03T18:57:36 IST" finished-at="2020-09-03T18:57:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.flipkart.qa.testcases.LoginPageTest@64bfbc86]" name="loginPageTitleTest" duration-ms="14" started-at="2020-09-03T18:57:51 IST" finished-at="2020-09-03T18:57:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.flipkart.qa.testcases.LoginPageTest@64bfbc86]" name="tearDown" is-config="true" duration-ms="693" started-at="2020-09-03T18:57:51 IST" finished-at="2020-09-03T18:57:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.flipkart.qa.testcases.LoginPageTest@64bfbc86]" name="setUp" is-config="true" duration-ms="11296" started-at="2020-09-03T18:57:52 IST" finished-at="2020-09-03T18:58:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createAccountLinkTest()[pri:2, instance:com.flipkart.qa.testcases.LoginPageTest@64bfbc86]" name="createAccountLinkTest" duration-ms="348" started-at="2020-09-03T18:58:03 IST" finished-at="2020-09-03T18:58:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccountLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.flipkart.qa.testcases.LoginPageTest@64bfbc86]" name="tearDown" is-config="true" duration-ms="723" started-at="2020-09-03T18:58:03 IST" finished-at="2020-09-03T18:58:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.flipkart.qa.testcases.LoginPageTest@64bfbc86]" name="setUp" is-config="true" duration-ms="10641" started-at="2020-09-03T18:58:04 IST" finished-at="2020-09-03T18:58:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginToApplicationTest()[pri:3, instance:com.flipkart.qa.testcases.LoginPageTest@64bfbc86]" name="loginToApplicationTest" duration-ms="390" started-at="2020-09-03T18:58:15 IST" finished-at="2020-09-03T18:58:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplicationTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.flipkart.qa.testcases.LoginPageTest@64bfbc86]" name="tearDown" is-config="true" duration-ms="717" started-at="2020-09-03T18:58:15 IST" finished-at="2020-09-03T18:58:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.flipkart.qa.testcases.LoginPageTest -->
+      <class name="com.flipkart.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.flipkart.qa.testcases.HomePageTest@192b07fd]" name="setUp" is-config="true" duration-ms="11848" started-at="2020-09-03T18:56:54 IST" finished-at="2020-09-03T18:57:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="flipkartLogoTest()[pri:1, instance:com.flipkart.qa.testcases.HomePageTest@192b07fd]" name="flipkartLogoTest" duration-ms="99" started-at="2020-09-03T18:57:06 IST" finished-at="2020-09-03T18:57:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipkartLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.flipkart.qa.testcases.HomePageTest@192b07fd]" name="tearDown" is-config="true" duration-ms="705" started-at="2020-09-03T18:57:06 IST" finished-at="2020-09-03T18:57:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.flipkart.qa.testcases.HomePageTest@192b07fd]" name="setUp" is-config="true" duration-ms="11362" started-at="2020-09-03T18:57:07 IST" finished-at="2020-09-03T18:57:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="menShirtsLinkVisibilityTest()[pri:2, instance:com.flipkart.qa.testcases.HomePageTest@192b07fd]" name="menShirtsLinkVisibilityTest" duration-ms="1" started-at="2020-09-03T18:57:18 IST" finished-at="2020-09-03T18:57:18 IST">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.flipkart.qa.pages.HomePage.menShirtsLinkVisibility(HomePage.java:38)
+at com.flipkart.qa.testcases.HomePageTest.menShirtsLinkVisibilityTest(HomePageTest.java:39)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(ArrayList.java:1259)
+at org.testng.TestRunner.privateRun(TestRunner.java:764)
+at org.testng.TestRunner.run(TestRunner.java:585)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+at org.testng.TestNG.runSuites(TestNG.java:1069)
+at org.testng.TestNG.run(TestNG.java:1037)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:135)
+at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:193)
+at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:94)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:146)
+at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menShirtsLinkVisibilityTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.flipkart.qa.testcases.HomePageTest@192b07fd]" name="tearDown" is-config="true" duration-ms="695" started-at="2020-09-03T18:57:18 IST" finished-at="2020-09-03T18:57:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.flipkart.qa.testcases.HomePageTest@192b07fd]" name="setUp" is-config="true" duration-ms="11569" started-at="2020-09-03T18:57:19 IST" finished-at="2020-09-03T18:57:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="offerZoneAvailabilityTest()[pri:3, instance:com.flipkart.qa.testcases.HomePageTest@192b07fd]" name="offerZoneAvailabilityTest" duration-ms="5139" started-at="2020-09-03T18:57:30 IST" finished-at="2020-09-03T18:57:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- offerZoneAvailabilityTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.flipkart.qa.testcases.HomePageTest@192b07fd]" name="tearDown" is-config="true" duration-ms="701" started-at="2020-09-03T18:57:36 IST" finished-at="2020-09-03T18:57:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.flipkart.qa.testcases.HomePageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

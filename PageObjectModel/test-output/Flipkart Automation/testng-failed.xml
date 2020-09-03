@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Flipkart Automation]">
+  <listeners>
+    <listener class-name="com.flipkart.qa.extentreport.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="Flipkart Testcases(failed)">
+    <classes>
+      <class name="com.flipkart.qa.testcases.HomePageTest">
+        <methods>
+          <include name="offerZoneAvailabilityTest"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="menShirtsLinkVisibilityTest"/>
+        </methods>
+      </class> <!-- com.flipkart.qa.testcases.HomePageTest -->
+    </classes>
+  </test> <!-- Flipkart Testcases(failed) -->
+</suite> <!-- Failed suite [Flipkart Automation] -->
